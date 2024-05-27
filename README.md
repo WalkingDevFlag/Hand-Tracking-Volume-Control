@@ -18,10 +18,10 @@ This Python script utilizes the `cv2`, `mediapipe`, `math`, `ctypes`, `comtypes`
    pip install opencv-python mediapipe numpy
    ```
 2. Clone the repository:
- ```
+   ```
    git clone https://github.com/your-repo.git
    cd your-repo
- ```
+   ```
 ### Usage:
 1. Run the script.
 2. Position your hand in front of the webcam.
